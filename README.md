@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeppeB
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I'm looking to collaborate on web development projects for practicing.
    I have a basic level of knowledge about frontend (HTML, CSS, JavaScript)
    and backend (PHP) web development technologies.
